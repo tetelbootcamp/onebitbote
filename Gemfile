@@ -11,6 +11,7 @@ gem 'database_cleaner'
 
 group :development do
   gem "tux"
+  gem 'solargraph'
 end
 
 group :test do
